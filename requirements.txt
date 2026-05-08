@@ -131,9 +131,14 @@
 
 
 
+# streamlit
+# pandas
+# scikit-learn==1.6.1
+# joblibjoblib==1.5.3
+# numpy
+
 streamlit
 pandas
-scikit-learn==1.6.1
-joblibjoblib==1.5.3
+scikit-learn
+joblib
 numpy
-
